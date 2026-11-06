@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma 单色图标绘制"
+  short_description: "对话配置、原生可编辑绘制与视觉复查，按需处理并导出 Iconfont SVG"
+  default_prompt: "使用 $figma-monochrome-icons，按我的参考和现有组件规范在 Figma Web 绘制单色矢量图标，先补齐必要配置。"
